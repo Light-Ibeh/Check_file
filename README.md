@@ -59,10 +59,3 @@ Collaborator
 This project was submitted as an assignment. The instructor's GitHub handle has been added as a collaborator:
 
 GitHub: @dapobelieve
-
-
-To paste it into nano:
-- On *Termius, simply **right-click* in the terminal, or
-- If that doesn’t work, use your system’s paste command (e.g., CTRL + V on Windows)
-
----
